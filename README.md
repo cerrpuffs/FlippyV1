@@ -29,4 +29,4 @@ Puedes acceder y usar la aplicación directamente en línea:
 ## Repositorio 
 * Si quieres ver el respositorio, contribuir, o implementarle tu propia inteligencia articial, contactate a los siguientes correos, con gusto te dare acceso al repositorio.
 
-[Enviame un coreo](maito:contacto@bydaniel.site)
+[Envíame un Correo](mailto:contacto@bydaniel.site)
