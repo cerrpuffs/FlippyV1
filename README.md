@@ -18,7 +18,7 @@ Flippy es una herramienta web diseñada para ayudar a la memorización y el estu
 Esta aplicación ha sido construida utilizando:
 
 * **React:** Para una interfaz de usuario rápida y dinámica.
-* **Netlify:** Para el despliegue y alojamiento (como se indica en la URL).
+* **Netlify:** Para el despliegue y alojamiento.
 
 ## Enlace a la Aplicación
 
